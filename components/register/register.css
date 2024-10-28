@@ -1,0 +1,12 @@
+.header-logo {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.register-cont {
+  height: calc(100vh - 10rem);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
